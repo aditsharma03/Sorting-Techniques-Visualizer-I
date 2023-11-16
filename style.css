@@ -2,6 +2,10 @@ body {
     display: flex;
     align-items: center;
     flex-direction: column;
+    background-color: lightcoral;
+}
+h1 {
+    color: #181818;
 }
 
 #container {
@@ -11,7 +15,7 @@ body {
 }
 
 .bar {
-    width: 10px;
-    background: black;
-    margin: 1px;
+    width: 15px;
+    background: #1f1f1f;
+    margin: 2px;
 }
